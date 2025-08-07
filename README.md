@@ -1,4 +1,5 @@
 🏦 Bank Customer Segmentation
+
 📊 Overview
 This project focuses on segmenting bank customers using machine learning techniques to better understand customer behavior, preferences, and demographics. The goal is to help financial institutions target specific customer groups for personalized marketing, product recommendations, and strategic decision-making.
 
